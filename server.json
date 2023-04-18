@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 50,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "category": "Venda",
+      "description": "App",
+      "price": 1000,
+      "type": "income",
+      "createdAt": "2023-04-16T01:53:26.730Z",
+      "id": 3
+    },
+    {
+      "description": "Pagamento do mes",
+      "price": 2000,
+      "category": "Salario",
+      "type": "income",
+      "createdAt": "2023-04-17T03:07:43.638Z",
+      "id": 4
+    },
+    {
+      "description": "Cafe",
+      "price": 5,
+      "category": "Alimentação",
+      "type": "outcome",
+      "createdAt": "2023-04-17T03:07:56.466Z",
+      "id": 5
+    }
+  ]
+}
